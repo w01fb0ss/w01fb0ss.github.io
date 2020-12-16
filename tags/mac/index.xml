@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mac on w01fb0ss`s blog</title>
+    <link>https://w01fb0ss.github.io/tags/mac/</link>
+    <description>Recent content in mac on w01fb0ss`s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 22 May 2020 10:06:21 +0800</lastBuildDate><atom:link href="https://w01fb0ss.github.io/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSH远程登录【记住密码】</title>
+      <link>https://w01fb0ss.github.io/2020/012/</link>
+      <pubDate>Fri, 22 May 2020 10:06:21 +0800</pubDate>
+      
+      <guid>https://w01fb0ss.github.io/2020/012/</guid>
+      <description>ssh 命令 是 openssh 套件中的客户端连接工具，可以给予 ssh 加密协议实现安全的远程登录服务器 $ ssh root@192.168.0.102 每次登录服务器，需要重复输入密码，服务器密码通常都是一串随</description>
+    </item>
+    
+    <item>
+      <title>Mac 添加 my.cnf</title>
+      <link>https://w01fb0ss.github.io/2020/009/</link>
+      <pubDate>Fri, 10 Apr 2020 15:54:41 +0800</pubDate>
+      
+      <guid>https://w01fb0ss.github.io/2020/009/</guid>
+      <description>mac下mysql没有my.cnf，如果想要修改一些配置还挺懵逼的，网上找了一些资料，经过博主亲测没有问题，发篇文章一为共享，二为做个备忘。</description>
+    </item>
+    
+  </channel>
+</rss>
